@@ -1,0 +1,21 @@
+# A Security
+
+> A Security (Ⓐ) is an Israeli-founded cybersecurity company building an autonomous offensive security and remediation platform. It continuously discovers real attack paths inside an organization, validates whether they can actually be exploited, and helps close them before adversaries chain vulnerabilities into a breach — operating at machine speed to keep pace with AI-enabled attackers. The company emerged from stealth in June 2026 with $37M led by Lightspeed Venture Partners and Cyberstarts. Founded by Yossi Torati (CEO), Omer Gull (CPO), and Yuval Itzchakov (CTO). Maintains SOC 2 and ISO 27001. A Security has no public developer API, SDK, or documentation surface at this time.
+
+## Company
+- [Website](https://a.security/): Product overview and positioning.
+- [About](https://a.security/about): Founders, mission, and background.
+- [Careers](https://www.comeet.com/jobs/a_security/EA.007): Open roles.
+
+## Security & Compliance
+- [Trust Center](https://trust.a.security/): Vanta-hosted trust and compliance posture (SOC 2, ISO 27001).
+- [Privacy Policy](https://a.security/privacy-policy): Privacy practices.
+
+## Investors
+- Lightspeed Venture Partners (lead)
+- Cyberstarts (lead)
+- Cerca Partners
+
+## Notes
+- No public API, OpenAPI specification, SDK, CLI, or developer documentation is published as of this profile (2026-07-17).
+- This is an API Evangelist network profile surfaced via the Lightspeed Venture Partners portfolio.

@@ -1,8 +1,20 @@
 aid: a-security
 name: A Security
-description: A Security is a company surfaced as a portfolio company of lightspeed-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  A Security (Ⓐ) is an Israeli-founded cybersecurity company building an
+  autonomous offensive security and remediation platform. The product
+  continuously discovers real attack paths inside an organization, validates
+  whether they can actually be exploited by following each path until it proves
+  what is truly exploitable, and then helps close those gaps before adversaries
+  chain vulnerabilities into a breach. Positioned for organizations where
+  failure is not an option, A Security is designed to operate at machine speed
+  to keep pace with AI-enabled attackers. The company emerged from stealth in
+  June 2026 with $37M in funding led by Lightspeed Venture Partners and
+  Cyberstarts, with participation from Cerca Partners and angel investors
+  including Wiz CEO Assaf Rappaport and Cyera CEO Yotam Segev. It was founded by
+  Yossi Torati (CEO), Omer Gull (CPO), and Yuval Itzchakov (CTO), veterans of
+  Check Point, Hunters, Sygnia, and the IDF's Unit 8200. A Security maintains
+  SOC 2 and ISO 27001 certifications.
 url: https://raw.githubusercontent.com/api-evangelist/a-security/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +22,56 @@ x-backed-by:
 - lightspeed-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://cdn.prod.website-files.com/6a041e8facd157fb46ab9f3a/6a40d1000039484e58d435c3_webclip.png
 tags:
 - Company
+- Security
+- Cybersecurity
+- Offensive Security
+- Penetration Testing
+- Attack Path Management
+- Autonomous Remediation
+- AI Security
+- Vulnerability Management
 apis: []
+common:
+- type: DomainSecurity
+  url: security/a-security-domain-security.yml
+- type: Website
+  url: https://a.security/
+- type: About
+  url: https://a.security/about
+- type: PrivacyPolicy
+  url: https://a.security/privacy-policy
+- type: TrustCenter
+  url: https://trust.a.security/
+- type: Compliance
+  url: https://trust.a.security/
+- type: Careers
+  url: https://www.comeet.com/jobs/a_security/EA.007
+- type: LLMsTxt
+  url: llms/a-security-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
