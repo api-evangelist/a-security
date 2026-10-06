@@ -46,7 +46,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 image: https://cdn.prod.website-files.com/6a041e8facd157fb46ab9f3a/6a40d1000039484e58d435c3_webclip.png
 tags:
 - Company
@@ -60,6 +60,8 @@ tags:
 - Vulnerability Management
 apis: []
 common:
+- url: https://a.security/blog
+  type: Blog
 - type: DomainSecurity
   url: security/a-security-domain-security.yml
 - type: Website
